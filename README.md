@@ -6,5 +6,5 @@ adding a few
 <br/>extra lines
 
 this is the
-<br/>test <strong>bronch</strong> of
+<br/>test <strong>branch</strong> of
 <br/>the project
